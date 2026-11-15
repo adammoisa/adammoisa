@@ -1,6 +1,6 @@
 ### Hi, I'm Adam 👋
 
-I build AI products at [Moisa Consulting](https://moisaconsulting.com) in New York. When production runs into a bug or a missing feature in the open-source stack underneath, I fix it upstream.
+I work on [Magicare](https://magicare.ai), an AI-native operating system for skilled nursing facilities: census, reimbursement and compliance. When production there runs into a bug or a missing feature in the open-source stack underneath, I fix it upstream.
 
 #### Open source
 
@@ -9,4 +9,4 @@ I build AI products at [Moisa Consulting](https://moisaconsulting.com) in New Yo
 
 #### Elsewhere
 
-[moisaconsulting.com](https://moisaconsulting.com) · [x.com/adammoisa](https://x.com/adammoisa)
+[magicare.ai](https://magicare.ai) · [x.com/adammoisa](https://x.com/adammoisa)
