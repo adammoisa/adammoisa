@@ -1,6 +1,6 @@
 ### Hi, I'm Adam 👋
 
-I work on [Magicare](https://magicare.ai), an AI-native operating system for skilled nursing facilities: census, reimbursement and compliance. When production there runs into a bug or a missing feature in the open-source stack underneath, I fix it upstream.
+I work on [Magicare](https://magicare.ai), an AI-native operating system for skilled nursing facilities: census, reimbursement and compliance.
 
 #### Open source
 
